@@ -1,4 +1,6 @@
 # Xcept
+
+[![Build Status](https://travis-ci.org/joeyism/node-xcept.svg?branch=master)](https://travis-ci.org/joeyism/node-xcept)
 A module that allows object and arrays to omit elements
 
 ## Installation
