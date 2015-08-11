@@ -1,0 +1,33 @@
+{
+  "name": "xcept",
+  "version": "1.0.0",
+  "description": "Allows objects and arrays to omit elements",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/istanbul/lib/cli.js cover node_modules/mocha/bin/_mocha"
+  },
+  "keywords": [
+    "except",
+    "xcept",
+    "array",
+    "object",
+    "omit",
+    "chai"
+    "prototype"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joeyism/node-xcept.git"
+  },
+  "author": "Joey Sham <sham.joey@gmail.com> (http://www.joeyism.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joeyism/node-xcept/issues"
+  },
+  "homepage": "https://github.com/joeyism/node-xcept#readme",
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "istanbul": "^0.3.17",
+    "mocha": "^2.2.5"
+  }
+}
