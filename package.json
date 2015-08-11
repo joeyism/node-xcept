@@ -12,7 +12,9 @@
     "array",
     "object",
     "omit",
-    "chai"
+    "elements",
+    "without",
+    "ignore",
     "prototype"
   ],
   "repository": {
