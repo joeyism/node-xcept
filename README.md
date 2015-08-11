@@ -4,8 +4,13 @@
 A module that allows object and arrays to omit elements
 
 ## Installation
+If you are using node, you can install it with
 
     > npm install --save xcept
+
+Or you can reference with a script tag with
+
+    <script src="https://raw.githubusercontent.com/joeyism/node-xcept/master/index.js"></script>
 
 ## Usage
 To use for array or object, adding either *.omit* or *.except* at the end will work. To load the module, just require it as such:
